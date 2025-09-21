@@ -13,7 +13,7 @@
     🔗 API
 ```
 
-<img src="https://github.com/user-attachments/assets/37af2386-37f1-4712-9928-a2d32a44aa3b"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/37af2386-37f1-4712-9928-a2d32a44aa3b"  width="1900" height="1000"/>
 
 #### **1. 프론트엔드: 사용자와 만나는 첫 번째 얼굴** 🧑‍💻
 
