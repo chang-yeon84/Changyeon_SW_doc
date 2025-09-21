@@ -37,7 +37,7 @@
 ## 1.6. 접근성 (Accessibility)
 
 ## 1.7. 페이지 이미지
-![페이지 이미지](front/Ui_images/login.png)
+![페이지 이미지](Ui_images/login.png)
 
 
 # 메인 대시보드 (Main Dashboard) UI 개발 명세서
@@ -100,7 +100,7 @@
 ## 1.6. 접근성 (Accessibility)
 
 ## 1.7. 페이지 이미지
- ![페이지 이미지](front/Ui_images/main.png)
+ ![페이지 이미지](Ui_images/main.png)
 
 # 일간 상세 스케줄 (Daily Schedule) UI 개발 명세서
 
@@ -169,7 +169,7 @@
 ## 1.6. 접근성 (Accessibility)
 
 ## 1.7. 페이지 이미지
-![페이지 이미지](front/Ui_images/sch_list.png)
+![페이지 이미지](Ui_images/sch_list.png)
 
 # 일정 상세 정보 (Schedule Detail) UI 개발 명세서
 
@@ -236,4 +236,4 @@
 ## 1.6. 접근성 (Accessibility)
 
 ## 1.7. 페이지 이미지
-![페이지 이미지](front/Ui_images/sch_detail.png)
+![페이지 이미지](Ui_images/sch_detail.png)
